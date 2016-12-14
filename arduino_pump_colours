@@ -1,0 +1,6 @@
+Pump 1 brown   -> Arduino Port 3
+Pump 2 purple  -> Arduino Port 5
+Pump 3 yellow  -> Arduino Port 6
+Pump 4 orange  -> Arduino Port 9
+Pump 5 grey    -> Arduino Port 10
+Pump 6 white   -> Arduino Port 11
